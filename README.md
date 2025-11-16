@@ -1,6 +1,7 @@
 # 🌐 Site Institucional Aprenser
 
-![Preview do projeto](https://i.postimg.cc/q7R2sxts/68747470733a2f2f692e706f7374696d672e63632f507876446738706e2f70726f6a65746f2e706e67.png)
+![Preview do projeto](https://i.postimg.cc/CLRvvZh8/Chat-GPT-Image-16-de-nov-de-2025-19-10-22.png)
+
 
 ---
 
